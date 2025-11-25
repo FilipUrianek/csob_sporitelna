@@ -81,8 +81,8 @@ class BankAnalysis:
 def main():
 
     # CESTY K TVÝM SOUBORŮM
-    xls_path = r"C:\Users\Filip\Projects\ProgramingProject\CSOB_Sporitelna_Analytic\pythonProject\project_2\dataset\csob.xls"
-    csv_path = r"C:\Users\Filip\Projects\ProgramingProject\CSOB_Sporitelna_Analytic\pythonProject\project_2\dataset\sporitelna.csv"
+    xls_path = git push -u origin main
+    csv_path = #your way to file
 
     # NAČTENÍ SOUBORŮ
     df_csob = load_excel_xls(xls_path)
